@@ -3,7 +3,8 @@
 <br>
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Dohun's%20GitHub&descAlign=70.&descAlignY=44)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dohunee&layout=compact)](https://github.com/깃Dohunee/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dohunee&langs_count=8)](https://github.com/Dohunee/github-readme-stats)
 
 <h2> My tech stack 📚 </h2>
 
