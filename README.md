@@ -4,14 +4,13 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Dohun's%20GitHub&descAlign=70.&descAlignY=44)
 
-# 장도훈 
 
 ## Contact
 
 - **Email** | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehgns1@gmail.com)](ehgns1@gmail.com)
 - **Blog** | [![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)](https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)
 
-
+<br>
 
 
 <h2> My tech stack 📚 </h2>
