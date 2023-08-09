@@ -6,9 +6,7 @@
 
 
 ## Contact
-
-- **Email** | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehgns1@gmail.com)](ehgns1@gmail.com)
-- **Blog** | [![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)](https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)](https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)
 
 <br>
 
