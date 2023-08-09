@@ -4,18 +4,37 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Dohun's%20GitHub&descAlign=70.&descAlignY=44)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dohunee&langs_count=8)](https://github.com/Dohunee/github-readme-stats)
+# 장도훈 
+
+## Contact
+
+- **Email** | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehgns1@gmail.com)](ehgns1@gmail.com)
+- **Blog** | [![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)](https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)
+
+
+
 
 <h2> My tech stack 📚 </h2>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/-python-222222?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-java-222222?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/-spring-222222?style=for-the-badge&logo=spring)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+### Languages
+- Java
+- Python
+
+### Back-End
+- Spring
+- Spring boot
+- Oracle
+
+### Front-End
+- HTML
+- CSS
+- Java Script
+- Boot Strap
+
+
+### Tools
+- Git, Github
+- IntelliJ, Eclipse, VS Code
 
 
 <br/>
