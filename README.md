@@ -2,7 +2,7 @@
 
 <br>
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Dohun's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=DoHunee's%20GitHub&descAlign=70.&descAlignY=44)
 
 
 ## Contact
@@ -17,17 +17,24 @@
 - Java
 - Python
 
-### Back-End
-- Spring
-- Spring boot
-- Oracle
-
 ### Front-End
 - HTML
 - CSS
 - Java Script
 - Boot Strap
+- 
+### Back-End
+- Spring
+- Spring boot
+- Oracle
 
+### Server
+- Linux
+- AWS
+
+## Database
+- Oracle 
+- Mongo DB
 
 ### Tools
 - Git, Github
