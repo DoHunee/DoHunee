@@ -6,7 +6,7 @@
 
 
 ## Contact
-[![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)](https://picayune-perfume-061.notion.site/Who-Am-I-b804d7fa5ad9426b8ee637feb16d91f8?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a411573c98994102b22e184bc4945e94?v=22207917f2224dacb6c04176f8d576f1)](https://www.notion.so/a411573c98994102b22e184bc4945e94?v=22207917f2224dacb6c04176f8d576f1)
 
 <br>
 
