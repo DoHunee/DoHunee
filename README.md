@@ -26,13 +26,13 @@
 ### Back-End
 - Spring
 - Spring boot
-- Oracle
 
 ### Server
 - Linux
 - AWS
 
 ### Database
+- MySQL
 - Oracle 
 - Mongo DB
 
