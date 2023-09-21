@@ -26,6 +26,7 @@
 ### Back-End
 - Spring
 - Spring boot
+- MyBatis
 
 ### Server
 - Linux
@@ -37,6 +38,9 @@
 - Mongo DB
 
 ### Tools
+- Notion
+- Figma
+- ERD Cloud
 - Git, Github
 - IntelliJ, Eclipse, VS Code
 
