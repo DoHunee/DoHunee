@@ -18,9 +18,8 @@
 - Python
 
 ### Front-End
-- HTML
-- CSS
-- Java Script
+- HTML, CSS(SCSS), JS(ES6)
+- React.js
 - Boot Strap
  
 ### Back-End
@@ -38,11 +37,13 @@
 - Mongo DB
 
 ### Tools
+- IntelliJ, Eclipse, VS Code
 - Notion
 - Figma
 - ERD Cloud
 - Git, Github
-- IntelliJ, Eclipse, VS Code
+- slack
+
 
 
 <br/>
