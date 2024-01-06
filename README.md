@@ -21,12 +21,11 @@
 ### Front-End
 - HTML, CSS(SCSS), JS(ES6)
 - React.js
-- Boot Strap
  
 ### Back-End
 - Spring
 - Spring boot
-- MyBatis
+- node.js
 
 ### Server
 - Linux
