@@ -34,7 +34,6 @@
 ### Database
 - MySQL
 - Oracle 
-- Mongo DB
 
 ### Tools
 - IntelliJ, Eclipse, VS Code
