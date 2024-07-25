@@ -16,7 +16,7 @@
 
 ### Languages
 - Java
-- Python
+- JavaScript
 
 ### Front-End
 - HTML, CSS(SCSS), JS(ES6)
