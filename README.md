@@ -33,11 +33,10 @@
 
 ### Database
 - MSSQL
-- MySQL
 - Oracle 
 
 ### Tools
-- IntelliJ, Eclipse, VS Code
+- IntelliJ, VS Code
 - Notion
 - Figma
 - ERD Cloud
